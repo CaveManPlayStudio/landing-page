@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./assets/logo.svg"; // Place your real logo here later
+import logo from "./assets/logo.png"; // Place your real logo here later
 
 export default function Home() {
   return (
